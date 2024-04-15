@@ -57,14 +57,14 @@ a.link {
   align-items: center;
 }
 .header__left .header__button {
-  background-image: url(/burger.svg);
+  background-image: url(img/burger.svg);
   width: 40px;
   height: 40px;
   position: relative;
   display: flex;
 }
 .header__left .header__logo {
-  background-image: url(/logo.svg);
+  background-image: url(img/logo.svg);
   width: 97px;
   height: 51px;
   margin-left: 20px;
@@ -88,27 +88,27 @@ a.link {
   align-items: center;
 }
 .header__right .header__button:nth-child(1) {
-  background-image: url(/call.svg);
+  background-image: url(img/call.svg);
   width: 40px;
   height: 40px;
   margin: 0 12px 0 8px;
 }
 .header__right .header__button:nth-child(2) {
-  background-image: url(/chat.svg);
+  background-image: url(img/chat.svg);
   width: 40px;
   height: 40px;
   margin: 0 12px 0 8px;
 }
 
 .header__right .header__button:nth-child(3) {
-  background-image: url(/profile.svg);
+  background-image: url(img/profile.svg);
   width: 40px;
   height: 40px;
   margin: 0 12px 0 8px;
 }
 
 .header__right .header__button:nth-child(4) {
-  background-image: url(/repair.svg);
+  background-image: url(img/repair.svg);
   width: 40px;
   height: 40px;
   margin-left: 12px;
@@ -125,7 +125,7 @@ a.link {
   top: 4px;
 }
 .header__right .header__button:last-child {
-  background-image: url(/checkstatus.svg);
+  background-image: url(img/checkstatus.svg);
   width: 40px;
   height: 40px;
   margin-left: 16px;
@@ -192,13 +192,13 @@ a.link {
 }
 
 .service__button:last-child::after {
-  content: url(/checkstatus.svg);
+  content: url(img/checkstatus.svg);
   width: 40px;
   height: 40px;
   margin-left: 8px;
 }
 .service__button:first-child::after {
-  content: url(/repair.svg);
+  content: url(img/repair.svg);
   width: 40px;
   height: 40px;
   margin-left: 8px;
@@ -276,7 +276,7 @@ li {
   }
 }
 .service__show--more::before {
-  content: url(expand.svg);
+  content: url(img/expand.svg);
 }
 .service__show--more {
   font-family: "TT Lakes Medium";
