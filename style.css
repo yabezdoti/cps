@@ -1,20 +1,20 @@
 @font-face {
   font-family: "TT Lakes Regular";
-  src: url(/TTLakes-Regular.woff) format("woff");
+  src: url(font/TTLakes-Regular.woff) format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "TT Lakes Medium";
-  src: url(/TTLakes-Medium.woff) format("woff");
+  src: url(font/TTLakes-Medium.woff) format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "TT Lakes Bold";
-  src: url(/TTLakes-Bold.woff) format("woff");
+  src: url(font/TTLakes-Bold.woff) format("woff");
   font-weight: normal;
   font-style: normal;
 }
